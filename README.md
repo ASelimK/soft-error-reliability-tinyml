@@ -53,7 +53,7 @@ strategies for enhancing the reliability of TinyML models._
 _Soft-error reliability, embedded systems, TinyML, STM32._
 ### More information can be found in our paper:
 (Will be updated) ->
-Arslan S., Akgedik, S., Goktas, O.B., Karakus, A.S. "What is Soft Error Reliability Assessment of TinyML Algorithms Executing on Embedded Devices". UBMK (2024). 
+Karakus, A.S., Goktas, O.B., Akgedik, S.,  Arslan S. "What is Soft Error Reliability Assessment of TinyML Algorithms on STM32 Microcontroller". UBMK (2024). 
 
 ## Contact Information
 ### Advisor:
