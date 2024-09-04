@@ -29,7 +29,7 @@ In the above screenshots we can see the phases of the fault detection process. T
 ___
 ![figure-4-indicated](https://github.com/user-attachments/assets/4799ff38-61bd-419c-8dff-a0e88318aecc)
 ___
-## About the Paper - Soft Error Reliability Assessment of TinyML Algorithms Executing on Embedded Devices
+## About the Paper - Soft Error Reliability Assessment of TinyML Algorithms on STM32 Microcontroller
 ### Abstract of the Paper
 _Ultra-low-power and low-cost microcontrollers are
 converging with the recently popular concept of Tiny Machine
